@@ -1,0 +1,28 @@
+_repo: Las-fiestas-de-San-Juan-Resena-historica-de-lo-que-han-sido-y-de-lo-que-son-relacion-veridica__60210
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Asenjo y Arteaga, Federico
+    alias: Asenjo, Federico
+    birthdate: 1831
+    deathdate: 1893
+    gutenberg_agent_id: '50848'
+    url: http://www.gutenberg.org/2009/agents/50848
+description: ''
+gutenberg_issued: '2019-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60210'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Juan (P.R.) -- Social life and customs'
+- !lcc 'GT'
+- !lcsh 'San Juan (P.R.) -- History'
+- !lcsh 'Festivals -- Puerto Rico -- San Juan'
+- GITenberg
+title: "Las fiestas de San Juan\r\nReseña histórica de lo que han sido y de lo que\
+  \ son relación verídica de las que se celebran en este año de 1868"
+url: http://www.gutenberg.org/ebooks/60210
